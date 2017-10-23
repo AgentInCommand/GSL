@@ -1,0 +1,331 @@
+-<div class="col-md-4 col-sm-4 col-xs-4">
+ -	<div class="panel panel-dl-main">
+ -	  <div class="panel-heading"><c>2017 Regular Season, Madden 18, RSFL Season 10!!!</c></div>
+ -	  <div class="panel-body">
+ -  <p>Commissioner Getty TA </p>
+ -  <!--<p>Welcome message----</p>-->
+ -  <p>NEXT ADVANCE</p> 
+ - <div id="advanceclock-container"></div> 
+ -<p>Advances: 48 Hrs</p>
+ -  </div>
+ -	</div>
+ -
+ -	  </div>
+ -	</div></div>
+ -
+ -
+ -
+ -<div class="col-md-22 col-sm-22 col-xs-22">
+ -
+ -	<div class="panel panel-dl-main nopad">
+ -	  <div class="panel-heading">League News
+ -<span class="button"> <a href="http://www.daddyleagues.com/RSFL/frontoffice/blog">Write an article</a></span></div>
+ -	  <div class="panel-body">
+ -        
+ -<div class="outer"><div class="inner">
+ -<!------Start Slidedeal------>
+ -<div id="news-stream-container"></div> 
+ -
+ -<!------End------>
+ -
+ -</div></div></div>
+ -</div>
+ -
+ -
+ -
+ -
+ -<div class="col-md-15 col-sm-15 col-xs-15">
+ -
+ -	<div class="panel panel-dl-main nopad">
+ -	  <div class="panel-heading">Game Of The Week</div>
+ -	  <div class="panel-body"><div id="gameoftheweek-container"></div></div>
+ -	</div></div>
+ -
+ -
+ -
+ -
+ -<div class="col-md-24 col-sm-24 col-xs-24">
+ -	<div class="panel panel-dl-main">
+ -	  <div class="panel-heading"><c> RSFL Discord & Podcasts </c></div>
+ -	  <div class="panel-body">
+ -
+ -      
+ -
+ -
+ -<!------SHOW FIRST BELOW------>
+ -
+ -<div class="vid-container">
+ - <iframe src="https://discordapp.com/widget?id=228144845179453450&theme=dark" width="100%" height="500" scrolling="yes" allowtransparency="true" frameborder="0"></iframe>
+ - </div></div>
+ -<!------SHOW FIRST ABOVE------>
+ -
+ -        <!-- THE PLAYLIST --> 
+ -       
+ -   <div class="vid-list-container"> 
+ -<iframe src="https://mixlr.com/users/3565444/embed?color=000000" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe><small><a href="http://mixlr.com/therealsimreport" style="color:#1a1a1a;text-align:left; font-family:Helvetica, sans-serif; font-size:11px;">TheRealSimReport is on Mixlr</a></small>
+ -    <!-- Channel Info -->
+ -    <section class="users" id="users">
+ -    </section>
+ -
+ -  </div>  
+ -
+ -  
+ -
+ -
+ -
+ -<!------End Nothing Below Here------>
+ -
+ -
+ -
+ -  </div>   
+ -
+ -
+ -
+ -
+ -<div class="col-md-25 col-sm-25 col-xs-25">
+ -	<div class="panel panel-dl-main">
+ -	  <div class="panel-heading"><c> hall of fame</c></div>
+ -	  <div class="panel-body">
+ - <div class="hof">
+ -<div class=" hou member">GettyTA<br>2017<br><br> Consistently good player, SB ii Champ, Commish of RSFL.</div><br>
+ -<div class=" car member">Staticfear24<br>2017<br><br> Currently hold the record for most SB's in RSFL.</div><br>
+ -<div class=" dal member">ElVencedor49<br>2017<br><br> Back to back NFC Championships, Superbowl II Champion.</div><br>
+ -</div>
+ -<br>
+ -
+ -
+ -
+ -<div class="panel panel-dl-main">
+ -	  <div class="panel-heading"><c>RSFL Super Bowl History<p></p>  </a><h6>click left or right to begin slides</h6></c></div>
+ -	  <div class="panel-body">
+ -<div class="carousel-wrapper">
+ -    <a class="arrow arrow-prev" href="#item-4"></a>
+ -  <a class="arrow arrow-next" href="#item-2"></a>
+ -  <span id="item-1"></span>
+ -  <span id="item-2"></span>
+ -  <span id="item-3"></span>
+ - <span id="item-4"></span>
+ -  
+ -  <div class="carousel-item item-1">
+ -  <a class="arrow arrow-prev" href="#item-4"></a>
+ -  <a class="arrow arrow-next" href="#item-2"></a>
+ - </div>
+ -  
+ -  <div class="carousel-item item-2">
+ -    <h2 class="superbowlyear">Super Bowl I</h2>
+ -  <p class="superbowlscore">Texans 27<br>Cowboys 17</p>
+ -  <p class="superbowlscore-users">GettyTA<br>ElVencedor49</p>
+ -  <p class="superbowlrecap">
+ -"Recap. "</p>
+ -  <a class="arrow arrow-prev" href="#item-1"></a>
+ -  <a class="arrow arrow-next" href="#item-3"></a>
+ -  </div>
+ -  
+ -  <div class="carousel-item item-3">
+ -    <h2 class="superbowlyear">Super Bowl II</h2>
+ -   <p class="superbowlscore">Cowboys 42<br>Chargers 21</p>
+ -  <p class="superbowlscore-users">ElVencedor49<br>AgentInCommand</p>
+ -  <p class="superbowlrecap">
+ -"The Cowboys could not be stopped in the air or the ground with D.Prescott throwing for over 300yds and 3 TDs and E.Elliot running for over 100yds and 2TDs"</p>
+ -  <a class="arrow arrow-prev" href="#item-2"></a>
+ -  <a class="arrow arrow-next" href="#item-4"></a>
+ -  </div>
+ -
+ -
+ -  <div class="carousel-item item-4">
+ -    <h2 class="superbowlyear">Super Bowl III</h2>
+ -  <p class="superbowlscore">NFC Team<br>AFC Team</p>
+ -  <p class="superbowlscore-users">user name<br>user name</p>
+ -  <p class="superbowlrecap">
+ -"Recap. "</p>
+ -  <a class="arrow arrow-prev" href="#item-3"></a>
+ -  <a class="arrow arrow-next" href="#item-1"></a>
+ -  </div>
+ -  
+ -  
+ -</div></div></div>
+ -</div></div></div>
+ -</div>
+ -
+ -
+ -
+ -
+ -
+ -	
+ -
+ -
+ -<div class="col-md-15 col-sm-15 col-xs-15">
+ -
+ -	<div class="panel panel-dl-main nopad">
+ -	  <div class="panel-heading">Players Of The Week</div>
+ -	  <div class="panel-body">
+ -<table width="1165px">
+ -<tr>
+ -<td width="50%" valign="top">
+ -
+ -		<div class="panel panel-hh nopad potw">
+ -		  <div class="panel-body">
+ -			<div class="panel nopad panel-player">
+ -				<div class="panel-heading">Defensive POW</div>
+ -			<div id="dplayeroftheweek-container"></div></div></div></div></td>
+ -
+ -	<td width="50%" valign="top">
+ -<div class="panel panel-hh nopad potw">
+ -		  <div class="panel-body">
+ -			<div class="panel nopad panel-player">
+ -				<div class="panel-heading">Offensive POW</div>
+ -			<div id="oplayeroftheweek-container"></div></div></div></div>
+ -</td></tr>
+ -</table></div> </div></div> 
+ -
+ -
+ -
+ -
+ -<div class="col-md-30 col-sm-30 col-xs-30">
+ -	<div class="panel panel-dl-main">
+ -	  <div class="panel-heading">Transactions 2016</div>
+ -	  <div class="panel-body"><div id="transactions-container"> </div>
+ -  </div></div></div>
+ -
+ -
+ -<div class="col-md-21 col-sm-21 col-xs-21">
+ -
+ -	<div class="panel panel-dl-main nopad">
+ -	  <div class="panel-heading">Power Rankings</div>
+ -	  <div class="panel-body">
+ -<div id="powerrankings-container"></div>
+ -</div></div></div>
+ -
+ -
+ -
+ -
+ -
+ -<div class="col-md-15 col-sm-15 col-xs-15">
+ -
+ -	<div class="panel panel-dl-main nopad">
+ -	  <div class="panel-heading">Standings</div>
+ -	  <div class="panel-body">
+ -<table width="1165px" border="0"> 
+ -<div class="panel panel-dl-nfc">
+ -<div class="panel panel-nfc standings">
+ -	  <div class="panel-heading">NFC Standings</div>
+ -	  <div class="panel-body">
+ -<td width="25%" valign="top">  <div id="nfc-east-container"></div></td>
+ -<td width="25%" valign="top">  <div id="nfc-west-container"></div></td>
+ -<td width="25%" valign="top">  <div id="nfc-north-container"></div></td>
+ -<td width="25%" valign="top">  <div id="nfc-south-container"></div></td>
+ -</div></div></div></div>
+ -</tr></table>
+ -
+ -<table width="1165px" border="0"> 
+ -<div class="panel panel-dl-afc">
+ -<div class="panel panel-afc standings">
+ -	  <div class="panel-heading">AFC Standings</div>
+ -	  <div class="panel-body">
+ -<td width="25%" valign="top">   <div id="afc-east-container"></div></td>
+ -<td width="25%" valign="top">   <div id="afc-west-container"></div></td>
+ -<td width="25%" valign="top">  <div id="afc-north-container"></div> </td>
+ -<td width="25%" valign="top">  <div id="afc-south-container"></div> </td>
+ -</div></div></div></div>
+ -</tr></table><br>
+ -
+ -<table width="1165px">
+ -<tbody><tr>
+ -<td width="50%" valign="top"><NFC1>NFC PLAYOFF CHASE</NFC1> <div id="nfc-playoff-container"></div></td>
+ -<td width="50%" valign="top"> <AFC1>AFC PLAYOFF CHASE</AFC1><div id="afc-playoff-container"></div></td>
+ -</tr></table>
+ -
+ -</div> </div> </div>
+ -
+ -
+ -
+ -<div class="col-md-15 col-sm-15 col-xs-15">
+ -
+ -	<div class="panel panel-dl-main nopad">
+ -	  <div class="panel-heading">Statistical Leaders</div>
+ -	  <div class="panel-body stats">
+ -<center><span class="transactionsfull2"> <a href="http://www.daddyleagues.com/RSFL/stats/player/rushing">See Full Rushing Leaders</a></span>
+ -<span class="transactionsfull2"><a href="http://www.daddyleagues.com/RSFL/stats/player/passing">See Full Passing Leaders</a></span>
+ -<span class="transactionsfull2"><a href="http://www.daddyleagues.com/RSFL/stats/player/receiving">See Full Receiving Leaders</a></span>
+ -
+ -<span class="transactionsfull2"><a href="http://www.daddyleagues.com/RSFL/stats/player/defense?sortby=sack">See Full Sack Leaders</a></span>
+ -<span class="transactionsfull2"><a href="http://www.daddyleagues.com/RSFL/stats/player/defense?sortby=tackles">See Full Tackle Leaders</a></span>
+ -<span class="transactionsfull2"><a href="http://www.daddyleagues.com/RSFL/stats/player/defense?sortby=int">See Full Interception Leaders</a></span>
+ -</center>
+ -
+ - <div class="portfolio-box2"> <div class="panel-heading stats">RUSHING</div>
+ -        <div class="portfolio-box2-caption">
+ -     <div class="portfolio-box2-caption-content">
+ -            <span>
+ -                    <div id="s-rushing-leaders-container"></div>
+ -            </span>
+ -          </div>
+ -        </div>
+ -      </div>
+ -
+ - <div class="portfolio-box3">
+ -<div class="panel-heading stats2">PASSING</div>
+ -        <div class="portfolio-box3-caption">
+ -          <div class="portfolio-box3-caption-content">
+ -            <span>
+ -                    <div id="s-passing-leaders-container"></div>
+ -            </span>
+ -          </div>
+ -        </div>
+ -      </div>
+ -
+ - <div class="portfolio-box4">
+ -<div class="panel-heading stats">RECIEVING</div>
+ -        <div class="portfolio-box4-caption">
+ -          <div class="portfolio-box4-caption-content">
+ -            <span>
+ -                    <div id="s-receiving-leaders-container"></div>
+ -            </span>
+ -          </div>
+ -        </div>
+ -      </div>
+ -
+ - <div class="portfolio-box5">
+ -<div class="panel-heading stats3">SACKS</div>
+ -        <div class="portfolio-box5-caption">
+ -          <div class="portfolio-box5-caption-content">
+ -            <span>
+ -                    <div id="s-sacks-leaders-container"></div>
+ -            </span>
+ -          </div>
+ -        </div>
+ -      </div>
+ -
+ -<div class="portfolio-box6">
+ -<div class="panel-heading stats2">PICKS</div>
+ -        <div class="portfolio-box6-caption">
+ -          <div class="portfolio-box6-caption-content">
+ -            <span>
+ -                    <div id="s-defenseint-leaders-container"></div>
+ -            </span>
+ -          </div>
+ -        </div>
+ -      </div>
+ -
+ -<div class="portfolio-box7">
+ -<div class="panel-heading stats">TACKLES</div>
+ -        <div class="portfolio-box7-caption">
+ -          <div class="portfolio-box7-caption-content">
+ -            <span>
+ -                    <div id="s-defense-leaders-container"></div>
+ -            </span>
+ -          </div>
+ -        </div>
+ -      </div>
+ -
+ -
+ -</div>
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -</div> </div></div>
